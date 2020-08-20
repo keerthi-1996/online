@@ -1,0 +1,30 @@
+[submodule "rs-cart"]
+	path = rs-cart
+	url = https://github.com/keerthi-1996/rs-cart.git
+[submodule "rs-catalogue"]
+	path = rs-catalogue
+	url = https://github.com/keerthi-1996/rs-catalogue.git
+[submodule "rs-frontend"]
+	path = rs-frontend
+	url = https://github.com/keerthi-1996/rs-frontend.git
+[submodule "rs-mongo"]
+	path = rs-mongo
+	url = https://github.com/keerthi-1996/rs-mongo.git
+[submodule "rs-mysql"]
+	path = rs-mysql
+	url = https://github.com/keerthi-1996/rs-mysql.git
+[submodule "rs-payment"]
+	path = rs-payment
+	url = https://github.com/keerthi-1996/rs-payment.git
+[submodule "rs-rabbitmq"]
+	path = rs-rabbitmq
+	url = https://github.com/keerthi-1996/rs-rabbitmq
+[submodule "rs-redis"]
+	path = rs-redis
+	url = https://github.com/keerthi-1996/rs-redis.git
+[submodule "rs-shipping"]
+	path = rs-shipping
+	url = https://github.com/keerthi-1996/rs-shipping.git
+[submodule "rs-user"]
+	path = rs-user
+	url = https://github.com/keerthi-1996/rs-user.git
